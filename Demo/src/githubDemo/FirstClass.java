@@ -7,5 +7,6 @@ public class FirstClass {
 	  System.out.println("Bye");
 	  System.out.println("Welcome");
 	  System.out.println("Housefull");
+	  System.out.println("man");
 	}
 }
