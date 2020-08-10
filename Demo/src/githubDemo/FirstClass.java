@@ -5,5 +5,6 @@ public class FirstClass {
 	{
 	
 	System.out.println("Hi");
+	System.out.println("Bye");
 	}
 }
