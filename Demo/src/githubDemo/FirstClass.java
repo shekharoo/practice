@@ -6,6 +6,6 @@ public class FirstClass {
 	
 	System.out.println("Hi");
 	System.out.println("Hii");
-	System.out.println("Hii");
+	System.out.println("Hiih");
 	}
 }
